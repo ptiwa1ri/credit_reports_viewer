@@ -18,6 +18,7 @@
     "not ie <= 8"
   ],
   "devDependencies": {
+    "@vue/cli-service": "^4.5.8",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.0",
@@ -32,5 +33,6 @@
   },
   "files": [
     "src/components/App.vue"
-  ]
+  ],
+  "main": "./dist/myLib.common.js"
 }
