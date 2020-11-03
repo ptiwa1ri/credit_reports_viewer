@@ -29,5 +29,8 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
-  }
+  },
+  "files": [
+    "src/components/App.vue"
+  ]
 }
